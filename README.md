@@ -13,7 +13,7 @@ I am constantly coding and learning. Right now, my focus is on:
 
 * **Current Project:** Working on [Static Site generator on Boot.dev], which helps [me practice what I've learnde in the Data Structures & Algorithms course also fromm Boot.dev].
 * **Learning:** I am currently diving deep into **[Memory management in C]**.
-* **Goals:** My goal for this year is to [Finish Boot.dev's backend path (TypeScript].
+* **Goals:** My goal for this year is to [Finish Boot.dev's backend path (TypeScript)].
 
 ---
 
