@@ -12,7 +12,7 @@ I'm 23 years old and I am a **Software engineer student** based in **Durango/Mex
 I am constantly coding and learning. Right now, my focus is on:
 
 * **Current Project:** Working on HackDGO I'm part of the staff that is creating the first official hackathon of Durango, Dgo., this major project helps me to work on my social skills as well as my organization and time & date management since I am in charge of scheduling the activities and connecting with the sponsors/vendors.
-* **Learning:** I am currently diving deep into **Memory management in C**.
+* **Learning:** I am currently taking Boot.dev's **Learn JavaScript Course**.
 * **Goals:** My goal for this year is to Finish Boot.dev's backend path (TypeScript).
 
 ---
@@ -22,7 +22,7 @@ Here are the technologies and tools I use to build software:
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, HTML, CSS |
+| **Languages** | Python, JavaScript, HTML, CSS, C|
 | **Frameworks** | to be updated soon |
 | **Databases** | MySQL, SQLite |
 | **Tools** | Git, Linux |
