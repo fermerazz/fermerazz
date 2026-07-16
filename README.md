@@ -1,7 +1,7 @@
 # Hi there, I'm Fernando Meraz! 👋
 
 ## 👨‍💻 Who am I?
-I'm 23 years old and I am a **Software engineer student** based in **Durango/Mexico**. I am passionate about Learning new technologies and studying and solving complex problems with code.
+I'm 24 years old and I am a **Software engineer student** based in **Durango/Mexico**. I am passionate about Learning new technologies and studying and solving complex problems with code.
 
 * **About me:** I focus on **Backend Engineering** and I am currently enrolled in **Universidad Tecnológica de Durango** and will graduate in early 2028. While attending uni I also study after class, currently I am workin on Boot.dev's backend course.
 * **Fun fact:** I love cats, I have one named Lluvia. I also love to watch anime, listening to true crime podcasts, going to the gym and also going out for a walk.
