@@ -4,7 +4,7 @@ I'm an Information Technology student at Universidad Tecnológica de Durango and
 
 ## Focus & Technologies
 
-Backend engineering · Python · JavaScript · TypeScript · React · PostgreSQL · MySQL · SQLite
+Backend engineering · Python · JavaScript · TypeScript · React · PostgreSQL · MySQL · SQLite · React Native
 
 ## Selected Projects
 
