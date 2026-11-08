@@ -11,7 +11,7 @@ I'm 24 years old and I am a **Information Technology** based in **Durango/Mexico
 ## 🚀 What am I currently working on?
 I am constantly coding and learning. Right now, my focus is on:
 
-* **Current Project:** WWorking as an MLH Coach (DevRel) which allows me to try out new technologies, help people have a great experience at hackathons and learn from them!
+* **Current Project:** Working as an MLH Coach (DevRel) which allows me to try out new technologies, help people have a great experience at hackathons and learn from them!
 * **Learning:** I am currently enrrolled in Codecademy's **Data Scientist: Analytics Career Path**.
 * **Goals:** My goal for this year is to keep attending more hackathons, helping people out and finishing Codecademy's Data Scientist: Analytics Career Path.
 
