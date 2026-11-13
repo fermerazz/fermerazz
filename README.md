@@ -22,8 +22,8 @@ Here are the technologies and tools I use to build software:
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, HTML, CSS, C, PHP|
-| **Frameworks** | React, React Native, Laravel |
+| **Languages** | Python, JavaScript, TypeScript, C, PHP|
+| **Frameworks** | React, React Native |
 | **Databases** | MySQL, SQLite, PostgreSQL |
 | **Tools** | Git, Linux |
 
